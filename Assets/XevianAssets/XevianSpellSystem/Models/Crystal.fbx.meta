@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 31b05209f4c986a4a9b1a31bcd037e8f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 3580823675190499710
+    second: Fog|Camera.001Action
+  - first:
+      74: -6911279278819969000
+    second: Fog|CubeAction
+  - first:
+      74: 4547242609003249632
+    second: Fog|Plane.006Action
+  - first:
+      74: 3773620644585396486
+    second: Fog|Plane.006Action.001
+  - first:
+      74: -3121021075073596905
+    second: Fog|Plane.007Action.001
+  - first:
+      74: -324904263269675960
+    second: Fog|Plane.008Action
+  - first:
+      74: -668054841280914909
+    second: Fog|Plane.008Action.001
+  - first:
+      74: 1998190224256303082
+    second: Fog|Plane.012Action.001
+  - first:
+      74: 4067263003052973094
+    second: Fog|Plane.012Action.004
+  - first:
+      74: -7026543068326420652
+    second: Fog|Point.001Action
+  - first:
+      74: -433042077885404020
+    second: Fog|Point.001Action.001
+  - first:
+      74: -7540662796607104176
+    second: Fog|RexoBody.002Action.001
+  - first:
+      74: -8602679465561857450
+    second: Camera|Camera.001Action
+  - first:
+      74: 7199037234577527760
+    second: Camera|CubeAction
+  - first:
+      74: 8640877402703609958
+    second: Camera|Plane.006Action
+  - first:
+      74: 421932215561131594
+    second: Camera|Plane.006Action.001
+  - first:
+      74: 6867042508844655659
+    second: Camera|Plane.007Action.001
+  - first:
+      74: 898715977154689927
+    second: Camera|Plane.008Action
+  - first:
+      74: 8476123404794886817
+    second: Camera|Plane.008Action.001
+  - first:
+      74: 1762259744123792274
+    second: Camera|Plane.012Action.001
+  - first:
+      74: 8753005398538371042
+    second: Camera|Plane.012Action.004
+  - first:
+      74: 5246105419571941995
+    second: Camera|Point.001Action
+  - first:
+      74: -7911548625702618505
+    second: Camera|Point.001Action.001
+  - first:
+      74: 4063118339195174750
+    second: Camera|RexoBody.002Action.001
+  - first:
+      74: 6291127752626731190
+    second: HueArmature|Camera.001Action
+  - first:
+      74: -11322808003501369
+    second: HueArmature|CubeAction
+  - first:
+      74: 5221717780214839123
+    second: HueArmature|Plane.006Action
+  - first:
+      74: 8523223238934782656
+    second: HueArmature|Plane.006Action.001
+  - first:
+      74: -7564485889488447694
+    second: HueArmature|Plane.007Action.001
+  - first:
+      74: 6681477460953359328
+    second: HueArmature|Plane.008Action
+  - first:
+      74: -8600908002273010895
+    second: HueArmature|Plane.008Action.001
+  - first:
+      74: -1114652863202758567
+    second: HueArmature|Plane.012Action.001
+  - first:
+      74: 3670685504629098622
+    second: HueArmature|Plane.012Action.004
+  - first:
+      74: -1299476972396783864
+    second: HueArmature|Point.001Action
+  - first:
+      74: -1059818182431860989
+    second: HueArmature|Point.001Action.001
+  - first:
+      74: -7362686041795810234
+    second: HueArmature|RexoBody.002Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+    normalCalculationMode: 2
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

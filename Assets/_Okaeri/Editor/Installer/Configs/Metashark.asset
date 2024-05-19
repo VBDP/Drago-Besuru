@@ -1,0 +1,29 @@
+﻿%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f10c67bfc1f1742a74b79de699f7cb, type: 3}
+  m_Name: Metashark
+  m_EditorClassIdentifier: 
+  AssetName: Metashark
+  AssetPath: Assets\_Okaeri\RCBoat
+  BoothURL: https://okaeri-shop.booth.pm/items/4845596
+  GumroadURL: https://gum.okaeri.moe/l/metashark
+  PrefabName: RCBoat_Content.prefab
+  AssetItemName: Itm_RCBoat
+  AssetFXAnimatorWDOff: FX_ToMerge.controller
+  AssetFXAnimatorWDOn: WD-ON\FX_ToMerge_WD-ON.controller
+  AssetExpressionParams: Param_ToMerge.asset
+  AssetExpressionsMenu: Menu_RCBoat.asset
+  MovableItems:
+  - RCBHandR
+  ScalableItems:
+  - Itm_RCBoat/WorldBoat/RCBoat
+  - Itm_RCBoat/Remote

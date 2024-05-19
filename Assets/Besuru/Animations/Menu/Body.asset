@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Body
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Tail Shape
+    icon: {fileID: 2800000, guid: e3aabb99c1edda64ca4f2f90fb093afc, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 282a86d87797e674495db137aeb0cadd, type: 2}
+    subParameters: []
+    labels: []
+  - name: FLOOF
+    icon: {fileID: 2800000, guid: 0ff9333af28b8224893850e22c95e496, type: 3}
+    type: 203
+    parameter:
+      name: FLOOF
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: FLOOF Radial
+    labels: []
+  - name: Tummy
+    icon: {fileID: 2800000, guid: c460bea4f449dc944befe7abc3fbb1f8, type: 3}
+    type: 203
+    parameter:
+      name: Tummy Shape
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Tummy Radial
+    labels: []
+  - name: Muscles
+    icon: {fileID: 2800000, guid: a6ac94fea7d06e4409a1f6effe46f59f, type: 3}
+    type: 203
+    parameter:
+      name: Muscles Shape
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Muscles Radial
+    labels: []
+  - name: Claws
+    icon: {fileID: 2800000, guid: a049dff273a073541be7b5e337b3ca1b, type: 3}
+    type: 102
+    parameter:
+      name: Claws
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Arms furr
+    icon: {fileID: 2800000, guid: 8bc95220fabe67e4cbf9ff590e4e2c4b, type: 3}
+    type: 102
+    parameter:
+      name: Arms Furr
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tongue Controls
+    icon: {fileID: 2800000, guid: c929b72101d3c0c499ddb712f0e79418, type: 3}
+    type: 201
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: TongueHor
+    - name: TongueVert
+    labels:
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+  - name: Ears Twitching
+    icon: {fileID: 2800000, guid: acbddf7fa50df4c4e963c676c71dcd37, type: 3}
+    type: 102
+    parameter:
+      name: Ears
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

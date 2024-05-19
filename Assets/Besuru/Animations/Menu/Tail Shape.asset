@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Tail Shape
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Spikes
+    icon: {fileID: 2800000, guid: 3cfb28491a7348d44ace59673075445c, type: 3}
+    type: 102
+    parameter:
+      name: Tail Shape
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shark
+    icon: {fileID: 2800000, guid: 281db46ea29f3f14d83f1f0bac781eae, type: 3}
+    type: 102
+    parameter:
+      name: Tail Shape
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Spikes Side
+    icon: {fileID: 2800000, guid: 84e5a019cb8a8c04b901367b5c290185, type: 3}
+    type: 102
+    parameter:
+      name: Tail Shape
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Webbed
+    icon: {fileID: 2800000, guid: c49df2804dde8d049b4d55a6f9c1390f, type: 3}
+    type: 102
+    parameter:
+      name: Tail Shape
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Webbed Side
+    icon: {fileID: 2800000, guid: 7be60c593c806d5498e33625045abc2b, type: 3}
+    type: 102
+    parameter:
+      name: Tail Shape
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tail controls
+    icon: {fileID: 2800000, guid: e3aabb99c1edda64ca4f2f90fb093afc, type: 3}
+    type: 201
+    parameter:
+      name: Tail
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: TailHor
+    - name: TailVert
+    labels:
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}

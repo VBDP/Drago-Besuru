@@ -1,0 +1,3 @@
+In order for the animations to play correctly, you need to make sure you put these prefabs in their proper places.
+
+The "fireworkLauncher" prefab should be attached directly to your avatar. Add an empty object to either arm of your avatar, position the Launcher as you wish, and set the "Parent Constriant" source on the Launcher to the empty object you created.

@@ -1,0 +1,10 @@
+To install the groan tube on your avatar
+1: Drag the "XeviansGroanTube" prefab onto your avatar
+2: Unpack completely
+3: Drag "GroanTubeAnchor" to the cooresponding bone on your avatar i.e. Right Hand
+4: Position the anchor as needed
+5: Copy the "Reference Controller" to your FX controller using AV3 Manager
+6: Copy the "Reference Parameters" to your avatar paremeters
+7: Create a toggle in your menu for "GroanToggle"
+8: Disable the groan tube
+9: Enjoy!

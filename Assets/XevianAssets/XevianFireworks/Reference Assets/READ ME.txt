@@ -1,0 +1,3 @@
+These assets are here to provide examples of how to set up your layers in your avatars FX Controller as well as the VRCParameters.
+
+All you have to do here is copy the layers from the "Reference Layers" asset over to your FX Controller and add the two parameters seen in "Reference Params" to your VRCExpressionParameters asset.

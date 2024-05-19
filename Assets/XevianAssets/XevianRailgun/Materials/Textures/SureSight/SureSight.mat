@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SureSight
+  m_Shader: {fileID: 4800000, guid: f6bc5a476b1f8cf44ac04ff24e42369c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReticleIcon:
+        m_Texture: {fileID: 2800000, guid: 6e0e74c3aff6eee40a69a3e6f6146e58, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReticleMain:
+        m_Texture: {fileID: 2800000, guid: ade723503c1c1ed4bac201dffc8ed7b3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReticleMask:
+        m_Texture: {fileID: 2800000, guid: 91f5621834bedb949b1bf5778cf7ca28, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReticleSecondary:
+        m_Texture: {fileID: 2800000, guid: ed3cec9990634fe4b9a7fabc05e32135, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DepthFade: 0.008
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _ExponentalRotationSpeed: 1
+    - _FadeDistance: 10
+    - _Falloff: 2
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GlowNoiseScale: 5
+    - _IconGradientColorToggle: 1
+    - _IconHorizontalVerticalGradient: 1
+    - _IconIntensityBoost: 1
+    - _IconScale: 0.331
+    - _IconScaleFlat: 2
+    - _MainGradientColorToggle: 1
+    - _MainHorizontalVerticalGradient: 1
+    - _MainIntensityBoost: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 0.07
+    - _OverallIntensityBoost: 10
+    - _Parallax: 0.02
+    - _PrimaryRotationSpeed: 0
+    - _PrimarySecondaryReticle: 0
+    - _ReticleIconHorizontalOffset: 0
+    - _ReticleIconVerticalOffset: 0
+    - _ScanlineToggle: 1
+    - _SecondaryGradientColorToggle: 1
+    - _SecondaryHorizontalVerticalGradient: 1
+    - _SecondaryIntensityBoost: 1
+    - _SecondaryReticleCount: 10
+    - _SecondaryReticleDepth: 0.37
+    - _SecondaryRotationSpeed: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TransitionDistance: 1.5
+    - _UVSec: 0
+    - _VisualObjectCenter: 1
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _IconColor: {r: 0.39215687, g: 0, b: 0, a: 0}
+    - _IconGradientColor: {r: 0, g: 0.39215687, b: 0, a: 0}
+    - _MainColor: {r: 2, g: 0, b: 0, a: 0}
+    - _MainGradientColor: {r: 0, g: 2.6390157, b: 0, a: 0}
+    - _SecondaryColor: {r: 32, g: 0, b: 0, a: 0}
+    - _SecondaryGradientColor: {r: 0, g: 23.968628, b: 0, a: 0}

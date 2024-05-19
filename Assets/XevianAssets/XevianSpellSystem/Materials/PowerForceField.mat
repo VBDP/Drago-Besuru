@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PowerForceField
+  m_Shader: {fileID: 4800000, guid: e7c21fe41f634174490dee65a13c19b0, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 90eac594f90584b4f8c7af4d308b33c6, type: 3}
+        m_Scale: {x: 4, y: 18}
+        m_Offset: {x: 0, y: -8}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 90eac594f90584b4f8c7af4d308b33c6, type: 3}
+        m_Scale: {x: 4, y: 18}
+        m_Offset: {x: 0, y: -10.5}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 208dbbd0dd49c5c45a8af40d03eb3334, type: 3}
+        m_Scale: {x: 20, y: 20}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 1f5e93120ca90fd40b61e5713c0fa200, type: 3}
+        m_Scale: {x: 20, y: 20}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: f8fdf9c7ef95ce048a169db8f5dd7988, type: 3}
+        m_Scale: {x: 1, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
+        m_Texture: {fileID: 2800000, guid: 90eac594f90584b4f8c7af4d308b33c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample4:
+        m_Texture: {fileID: 2800000, guid: 90eac594f90584b4f8c7af4d308b33c6, type: 3}
+        m_Scale: {x: 2, y: 10}
+        m_Offset: {x: 0, y: -6}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Fill: 0.01
+    - _Float2: 0.01
+    - _Float4: 1.192
+    - _Float5: 2
+    - _Fresnel: 5
+    - _HDR: 2
+    - _Hue: 0.149
+    - _Offset: 0.6
+    - _RotateSpeed1: 0.02
+    - _RotateSpeed2: -0.02
+    - _Saturation: 1
+    - _ScanSpeed: -0.1
+    - _Value: 1
+    - __dirty: 0
+    m_Colors:
+    - _Speed: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _Speed1: {r: 0, g: 0, b: 0, a: 0}
+    - _Speed2: {r: 0, g: 0, b: 0, a: 0}

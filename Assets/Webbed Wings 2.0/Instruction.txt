@@ -1,0 +1,10 @@
+Setting up Webbed Wings by BurnsToShine:
+
+1. Install the VRC Fury plugin from Github (https://github.com/VRCFury/VRCFury).
+2. Drag and drop the "bts_webbed_wings" prefab onto your avatar in the hierarchy.
+3. Position the wings on the back of your avatar.
+
+Animations, menu and parent to chest bone will be automatically added through the VRC Fury plugin during avatar upload.
+After that, you should see a new menu in the Expression Menu called "Wings Control", where you can toggle the wings on and off, customization and control them using a radial menu.
+
+For any questions https://discord.gg/bHjf87ZSaZ
