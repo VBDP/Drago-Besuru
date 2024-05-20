@@ -21,20 +21,20 @@
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
     },
-    "com.vrcfury.vrcfury": {
-      "version": "1.860.0"
-    },
     "nadena.dev.modular-avatar": {
       "version": "1.9.13"
     },
     "com.furality.sylvashader": {
       "version": "1.4.0"
     },
-    "com.furality.umbrashader": {
-      "version": "1.6.0"
-    },
     "com.llealloo.audiolink": {
       "version": "1.4.0"
+    },
+    "com.furality.umbrashader": {
+      "version": "1.7.0"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.864.0"
     }
   },
   "locked": {
@@ -78,10 +78,6 @@
       "version": "0.1.29",
       "dependencies": {}
     },
-    "com.vrcfury.vrcfury": {
-      "version": "1.860.0",
-      "dependencies": {}
-    },
     "nadena.dev.modular-avatar": {
       "version": "1.9.13",
       "dependencies": {
@@ -99,14 +95,18 @@
         "com.llealloo.audiolink": "1.3.0"
       }
     },
-    "com.furality.umbrashader": {
-      "version": "1.6.0",
-      "dependencies": {
-        "com.llealloo.audiolink": "1.3.0"
-      }
-    },
     "com.llealloo.audiolink": {
       "version": "1.4.0",
+      "dependencies": {}
+    },
+    "com.furality.umbrashader": {
+      "version": "1.7.0",
+      "dependencies": {
+        "com.llealloo.audiolink": "1.x.x"
+      }
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.864.0",
       "dependencies": {}
     }
   }
