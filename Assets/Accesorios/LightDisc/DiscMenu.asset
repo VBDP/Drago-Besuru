@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: DiscMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Toggle
+    icon: {fileID: 2800000, guid: 1f0316191378ac345bd79dd25091101d, type: 3}
+    type: 102
+    parameter:
+      name: Disc/Toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Enable Dual Disc <b><size=90%><color=#FFFFFF>(Grab main disc with other
+      hand)
+    icon: {fileID: 2800000, guid: 816bd04d6008f144d837b887709c86d1, type: 3}
+    type: 102
+    parameter:
+      name: Disc/EnableDuplicate
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Desktop Controls
+    icon: {fileID: 2800000, guid: b3f650695f5e62a45bf35ea1a49b6d46, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: dc429ca173aaae94c90e464dfe596671, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <b><size=90%><color=#FFFFFF>Power Up Disc (Thumbs Up) Unpower (Rocker)
+    icon: {fileID: 2800000, guid: 62f1aed7f37f3e24cb28e4834ace1e6a, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b><size=90%><color=#FFFFFF>Impact (Peace)
+    icon: {fileID: 2800000, guid: 62f1aed7f37f3e24cb28e4834ace1e6a, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Settings
+    icon: {fileID: 2800000, guid: 1fbf94f65d823574f8f40c7347f69dba, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1abcfe5b17a66ce4bbc51907dc2c9e78, type: 2}
+    subParameters:
+    - name: 
+    labels: []

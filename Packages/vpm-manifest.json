@@ -34,7 +34,7 @@
       "version": "1.7.0"
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.864.0"
+      "version": "1.894.0"
     }
   },
   "locked": {
@@ -106,7 +106,7 @@
       }
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.864.0",
+      "version": "1.894.0",
       "dependencies": {}
     }
   }
