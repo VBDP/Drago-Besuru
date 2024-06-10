@@ -174,18 +174,18 @@ Material:
     - _EmissionGlowAnimationSpeed: 0
     - _EmissionGlowAnimationStrength: 1
     - _EmissionGlowBlendMode: 0
-    - _EmissionGlowMinBrightness: 0
+    - _EmissionGlowMinBrightness: 0.3
     - _EmissionGlowMode: 0
     - _EmissionGlowPulseDir: 0
     - _EmissionGlowPulseOffset: 0
     - _EmissionGlowPulseScale: 127
-    - _EmissionGlowZone: 0
+    - _EmissionGlowZone: 1
     - _EmissionMaskChannel: 0
     - _EmissionMaskMap: 4
-    - _EmissionReactiveBand: 10
+    - _EmissionReactiveBand: 0
     - _EmissionReactiveBlendMode: 0
     - _EmissionReactiveGlobalSmoothing: 1
-    - _EmissionReactiveMinBrightness: 0
+    - _EmissionReactiveMinBrightness: 0.3
     - _EmissionReactiveMode: 0
     - _EmissionReactivePulseDir: 0
     - _EmissionReactivePulseOffset: 0
@@ -295,7 +295,7 @@ Material:
     - _ShowBlueAL: 0
     - _ShowBlueGlow: 0
     - _ShowEmissAL: 0
-    - _ShowEmissGlow: 0
+    - _ShowEmissGlow: 1
     - _ShowEmission: 1
     - _ShowEmission01: 0
     - _ShowEmission02: 0
@@ -304,9 +304,9 @@ Material:
     - _ShowEmissionMain: 1
     - _ShowGreenAL: 0
     - _ShowGreenGlow: 0
-    - _ShowLighting: 1
+    - _ShowLighting: 0
     - _ShowMain: 0
-    - _ShowMaps: 1
+    - _ShowMaps: 0
     - _ShowRedAL: 0
     - _ShowRedGlow: 0
     - _ShowTileDiscard: 0

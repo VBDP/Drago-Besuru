@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Jidoribo Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Selfie Stick On/off
+    icon: {fileID: 2800000, guid: e448f6e6237600f448a3bb76a6e7d338, type: 3}
+    type: 102
+    parameter:
+      name: "\u3058\u3069\u308A\u307C\u30FC_\u68D2ONOFF"
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Camera Power
+    icon: {fileID: 2800000, guid: 872168d05c6dbc441b419bfcf7f4a63a, type: 3}
+    type: 102
+    parameter:
+      name: "\u3058\u3069\u308A\u307C\u30FC_\u30AB\u30E1\u30E9ONOFF"
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Flip Camera
+    icon: {fileID: 2800000, guid: 33a267a2b56b8064381463e20774a21f, type: 3}
+    type: 102
+    parameter:
+      name: "\u3058\u3069\u308A\u307C\u30FC_\u30AB\u30E1\u30E9\u53CD\u8EE2"
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Camera Viewing Angle
+    icon: {fileID: 2800000, guid: a986ef963c2c9b7448641f5b8c549d2b, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: "\u3058\u3069\u308A\u307C\u30FC_\u8996\u91CE\u89D2"
+    labels: []
+  - name: Length Of Stick
+    icon: {fileID: 2800000, guid: 5bec9eb52bffe3847b379acb46753098, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: "\u3058\u3069\u308A\u307C\u30FC_\u68D2\u306E\u9577\u3055"
+    labels: []
+  - name: Smartphone Angle
+    icon: {fileID: 2800000, guid: d5350217dbb264144b6e2c04bd996c64, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: "\u3058\u3069\u308A\u307C\u30FC_\u30B9\u30DE\u30DB\u306E\u89D2\u5EA6"
+    labels: []

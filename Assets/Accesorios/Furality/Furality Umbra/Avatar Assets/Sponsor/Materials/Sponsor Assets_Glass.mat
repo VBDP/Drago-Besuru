@@ -179,13 +179,13 @@ Material:
     - _EmissionGlowPulseDir: 0
     - _EmissionGlowPulseOffset: 0
     - _EmissionGlowPulseScale: 127
-    - _EmissionGlowZone: 0
+    - _EmissionGlowZone: 1
     - _EmissionMaskChannel: 0
     - _EmissionMaskMap: 4
-    - _EmissionReactiveBand: 10
+    - _EmissionReactiveBand: 0
     - _EmissionReactiveBlendMode: 0
     - _EmissionReactiveGlobalSmoothing: 1
-    - _EmissionReactiveMinBrightness: 0
+    - _EmissionReactiveMinBrightness: 0.3
     - _EmissionReactiveMode: 0
     - _EmissionReactivePulseDir: 0
     - _EmissionReactivePulseOffset: 0
@@ -294,8 +294,8 @@ Material:
     - _ShowAlphaGlow: 0
     - _ShowBlueAL: 0
     - _ShowBlueGlow: 0
-    - _ShowEmissAL: 0
-    - _ShowEmissGlow: 0
+    - _ShowEmissAL: 1
+    - _ShowEmissGlow: 1
     - _ShowEmission: 1
     - _ShowEmission01: 0
     - _ShowEmission02: 0

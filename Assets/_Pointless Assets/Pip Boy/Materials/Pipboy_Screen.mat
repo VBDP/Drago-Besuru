@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pipboy_Screen
+  m_Shader: {fileID: 4800000, guid: 364645e7c22ed414192ab8dc108b7b0c, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 1a5991614339ad74d8adb636ee1f45c8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MinimapCamSlot:
+        m_Texture: {fileID: 8400000, guid: e742068d51e055840828184ae09b2ad6, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MinimapCamSlotStatic:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Numbers:
+        m_Texture: {fileID: 2800000, guid: c9d50e00f24f81e4d9d6fbe24abfbf6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PlayerCamSlot:
+        m_Texture: {fileID: 8400000, guid: 9da9bfccc8ef9a144a3b72879ae134ca, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PlayerCamSlotStatic:
+        m_Texture: {fileID: 2800000, guid: 11384f898c7e6a745a90aef0d8b5ed4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex:
+        m_Texture: {fileID: 2800000, guid: cb589e7fae084b14eb6af9480ab9dacf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex1:
+        m_Texture: {fileID: 2800000, guid: cb589e7fae084b14eb6af9480ab9dacf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: c9d50e00f24f81e4d9d6fbe24abfbf6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ChangeMinimapTex: 1
+    - _ChangePlayerCamTex: 1
+    - _Cutoff: 1
+    - _Digi1: 871.67
+    - _Digi2: 5
+    - _Digi3: 2.58
+    - _Digi4: 1.18
+    - _Digi5: 5
+    - _Digi6: 5
+    - _Float1: 5
+    - _GamerMode: 0
+    - _GamerSpeed: 0.25
+    - _MinimapCamSlotContrast: 1.15
+    - _PlayerCamSlotContrast: 1
+    - _ScreenSelection: 0
+    - _Screens: 0
+    - _UVSet: 0
+    - __dirty: 0
+    - _dethberadhbeahbea: -0.023
+    m_Colors:
+    - _Color: {r: 0.09084173, g: 0.87136734, b: 0.90466136, a: 1}
+  m_BuildTextureStacks: []

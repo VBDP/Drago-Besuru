@@ -305,12 +305,12 @@ Material:
     - _ShowEmissionMain: 0
     - _ShowGreenAL: 0
     - _ShowGreenGlow: 0
-    - _ShowLighting: 1
-    - _ShowMain: 1
+    - _ShowLighting: 0
+    - _ShowMain: 0
     - _ShowMaps: 0
     - _ShowRedAL: 0
     - _ShowRedGlow: 0
-    - _ShowTileDiscard: 1
+    - _ShowTileDiscard: 0
     - _SmoothnessTextureChannel: 0
     - _SourceBlendRGB: 1
     - _SpecularGlint: 1
