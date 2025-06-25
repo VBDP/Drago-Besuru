@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Magic CircleMenu
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: Disable Spell Circle
     icon: {fileID: 2800000, guid: 684a0e7cdc1ca2541b54a4ecd9499f46, type: 3}

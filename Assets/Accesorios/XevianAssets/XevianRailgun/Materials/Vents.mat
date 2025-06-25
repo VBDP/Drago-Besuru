@@ -13,6 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _EMISSION
+  - _ENABLE_GEOMETRIC_SPECULAR_AA
   m_InvalidKeywords:
   - _METALLICGLOSSMAP
   - _NORMALMAP
@@ -524,6 +525,7 @@ Material:
     - _BackFaceTextureUV: 0
     - _BaseColor_Step: 0.5
     - _BaseShade_Feather: 0.0001
+    - _Bicubic: 0
     - _BlendOp: 0
     - _BlendOpAlpha: 0
     - _BumpMapUV: 0
@@ -712,6 +714,7 @@ Material:
     - _EnableFlipbook: 0
     - _EnableGITDEmission: 0
     - _EnableGITDEmission1: 0
+    - _EnableGeometricSpecularAA: 1
     - _EnableLighting: 1
     - _EnableMetallic: 0
     - _EnableMirrorOptions: 0
@@ -820,6 +823,7 @@ Material:
     - _LightingUncapped: 0
     - _LightingWrappedNormalization: 0
     - _LightingWrappedWrap: 0
+    - _LightmapType: 0
     - _LineWidth: 0
     - _LockTooltip: 0
     - _MainAlphaToCoverage: 0
@@ -1002,6 +1006,8 @@ Material:
     - _SpecLMOcclusionAdjust: 0.2
     - _SpecWhatTangent: 0
     - _SpecWhatTangent1: 0
+    - _SpecularAAScreenSpaceVariance: 0.1
+    - _SpecularAAThreshold: 0.2
     - _SpecularAnisoJitterMacro1UV: 0
     - _SpecularAnisoJitterMacroMultiplier: 0
     - _SpecularAnisoJitterMacroMultiplier1: 0

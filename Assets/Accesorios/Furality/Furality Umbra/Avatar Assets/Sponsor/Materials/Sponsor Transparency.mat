@@ -13,6 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _EMISSION
+  - _ENABLE_GEOMETRIC_SPECULAR_AA
   m_InvalidKeywords:
   - _ALPHATEST_ON
   m_LightmapFlags: 2
@@ -121,6 +122,7 @@ Material:
     - _AlphaChReactivePulseDir: 0
     - _AlphaChReactivePulseOffset: 0
     - _AlphaChReactivePulseScale: 127
+    - _Bicubic: 0
     - _BlendModeIndex: 1
     - _BlendOPIndex: 0
     - _BlendOPdst: 10
@@ -191,6 +193,7 @@ Material:
     - _EnableAlphaChannel: 0
     - _EnableBlueChannel: 0
     - _EnableEmission: 1
+    - _EnableGeometricSpecularAA: 1
     - _EnableGreenChannel: 0
     - _EnableRedChannel: 0
     - _FleckColorMap: 4
@@ -250,6 +253,7 @@ Material:
     - _InvertGloss: 0
     - _InvertHighlightGloss: 0
     - _InvertReflectionGloss: 0
+    - _LightmapType: 0
     - _MaskClipValue: 0.5
     - _MaskMap01UV: 0
     - _MaskMap02UV: 0
@@ -310,6 +314,8 @@ Material:
     - _ShowTileDiscard: 0
     - _SmoothnessTextureChannel: 0
     - _SourceBlendRGB: 1
+    - _SpecularAAScreenSpaceVariance: 0.1
+    - _SpecularAAThreshold: 0.2
     - _SpecularGlint: 0
     - _SpecularHighlights: 1
     - _SpecularMask: 4

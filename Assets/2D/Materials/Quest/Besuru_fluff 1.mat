@@ -13,6 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _EMISSION
+  - _ENABLE_GEOMETRIC_SPECULAR_AA
   - _GLOSSYREFLECTIONS_OFF
   - _SPECULARHIGHLIGHTS_OFF
   m_InvalidKeywords:
@@ -804,6 +805,7 @@ Material:
     - _BacklightViewStrength: 1
     - _BaseColor_Step: 0.5
     - _BaseShade_Feather: 0.0001
+    - _Bicubic: 0
     - _BlackLightMasking0GlobalMaskBlendType: 0
     - _BlackLightMasking0GlobalMaskIndex: 0
     - _BlackLightMasking0Key: 1
@@ -1306,6 +1308,7 @@ Material:
     - _EnableGITDEmission1: 0
     - _EnableGITDEmission2: 0
     - _EnableGITDEmission3: 0
+    - _EnableGeometricSpecularAA: 1
     - _EnableMirrorOptions: 0
     - _EnableOutlines: 0
     - _EnablePathing: 0
@@ -1774,6 +1777,7 @@ Material:
     - _LightingViewDirOffsetYaw: 0
     - _LightingWrappedNormalization: 0
     - _LightingWrappedWrap: 0
+    - _LightmapType: 0
     - _LineColorThemeIndex: 0
     - _LineWidth: 1
     - _MainALHueShiftBand: 0
@@ -2435,6 +2439,8 @@ Material:
     - _SkinThicknessMapUV: 0
     - _SkinThicknessPower: 1
     - _Specular2ndLayer: 0
+    - _SpecularAAScreenSpaceVariance: 0.1
+    - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 0
     - _SphericalDissolveClamp: 0
     - _SphericalDissolveInvert: 0

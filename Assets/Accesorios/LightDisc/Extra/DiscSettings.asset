@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: DiscSettings
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: Allow Throw <b><size=90%><color=#FFFFFF>(Fingergun) (Fist to return it)
     icon: {fileID: 2800000, guid: b68d3ad3676b9e9479cc77bd7d740506, type: 3}

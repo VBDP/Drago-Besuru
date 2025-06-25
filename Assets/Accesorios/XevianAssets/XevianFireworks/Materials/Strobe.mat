@@ -11,7 +11,8 @@ Material:
   m_Shader: {fileID: 4800000, guid: 0b7113dea2069fc4e8943843eff19f70, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _ENABLE_GEOMETRIC_SPECULAR_AA
   m_InvalidKeywords:
   - ABERRATION_QUALITY_MULTISAMPLING
   - BLUR_RADIAL
@@ -117,6 +118,7 @@ Material:
     - Wave_Distorsion: 1
     - _ActiveTime: 1
     - _AngleStartFade: 0.1
+    - _Bicubic: 0
     - _BlockGlitch: 1
     - _BlockSize: 10
     - _BlueInvert: 0
@@ -137,6 +139,7 @@ Material:
     - _DIntensity_Y: 0.01
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+    - _EnableGeometricSpecularAA: 1
     - _Fold: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -148,6 +151,7 @@ Material:
     - _HueAnimationSpeed: 0.1
     - _HueRange: 0.5
     - _HueSmoothRange: 0.5
+    - _LightmapType: 0
     - _Lightness: 0.1
     - _LightnessRange: 1
     - _LightnessSmoothRange: 1
@@ -192,6 +196,8 @@ Material:
     - _ScreenVerticalFlip: 0
     - _SizeGirls: 0
     - _SmoothnessTextureChannel: 0
+    - _SpecularAAScreenSpaceVariance: 0.1
+    - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _StaticAlpha: 0.25
